@@ -1,4 +1,4 @@
- py3Dmol Visualization — Code & Results
+ #Py3Dmol Visualization — Code & Results
  
 py3Dmol's output is a live WebGL canvas, not a static image, so it doesn't render here. Code is shown below; paste your screenshot in the placeholder right after each block. Replace `screenshot_X.png` with your actual image filename/path once you save it.
  
