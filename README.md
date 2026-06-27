@@ -53,7 +53,3 @@ Open the notebook and run all cells. Structures are fetched live from PubChem an
 
 - `query='cid:<id>'` and `query='pdb:<id>'` pull structures directly via py3Dmol's built-in fetchers — no manual download/parsing step required.
 - Surface opacity is deliberately different between the ligand (0.5) and protein (0.1) views: a denser surface is legible on a small molecule, while a fold-level structure needs a near-transparent surface so the cartoon backbone remains visible underneath.
-
-## License
-
-[MIT](LICENSE) — or specify your preferred license.
