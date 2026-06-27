@@ -1,10 +1,11 @@
 
 # Protein & Ligand Visualization using py3Dmol
-<img align="right" width="300" height="300" alt=" protein Animation" src="https://structuralbioinformatician.wordpress.com/wp-content/uploads/2013/03/1ece.gif" />
 
 A short, reproducible Jupyter notebook demonstrating 3D molecular visualization of a small-molecule ligand and a protein target directly from public structural databases (PubChem and RCSB PDB), using [py3Dmol](https://github.com/3dmol/3Dmol.js).
 
 ## Overview
+
+<img align="right" width="300" height="300" alt=" protein Animation" src="https://structuralbioinformatician.wordpress.com/wp-content/uploads/2013/03/1ece.gif" />
 
 This notebook covers two visualization tasks:
 
